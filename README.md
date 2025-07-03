@@ -120,6 +120,6 @@ bool checkSwitch(byte index) {
 ## Project Screenshot  
 Below is a screenshot of the final 3-button LED control circuit created in Tinkercad:
 
-![Circuit Screenshot](Circuit.png)
+![Circuit Screenshot](https://github.com/Aghadi-alrebdi/Electronic-Engineering/blob/main/Circuit.png?raw=true)
 
 
