@@ -37,15 +37,6 @@ A heartbeat LED is also added on pin 13, which blinks periodically to indicate t
   - Wires
 
 ---
-
-## Created By  
-- **Student Name**: Aghadi Saleh Al-rebdi  
-- **University**: Qassim University  
-- **Department**: Computer Science  
-- **Year**: 2025  
-
----
-
 ## Arduino Code
 
 ```cpp
@@ -123,4 +114,10 @@ Below is a screenshot of the final 3-button LED control circuit created in Tinke
 
 ![Circuit Screenshot](Circuit.png))
 
+---
+
+## Created By  
+- **Student Name**: Aghadi Saleh Al-rebdi   
+- **Department**: Computer Science  
+- **Year**: 2025  
 
