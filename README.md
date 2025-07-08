@@ -117,7 +117,7 @@ Below is a screenshot of the final 3-button LED control circuit created in Tinke
 ---
 
 ## Created By  
-- **Student Name**: Aghadi Saleh Al-rebdi   
+- **Name**: Aghadi Saleh Al-rebdi   
 - **Department**: Computer Science  
 - **Year**: 2025  
 
